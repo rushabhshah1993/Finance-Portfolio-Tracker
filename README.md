@@ -2,10 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). A big chunk of this project credit goes to [Alpha Vantage](https://www.alphavantage.co/) - the leading provider of free APIs for realtime and historical data on stocks, forex (FX), and digital/crypto currencies.
 
+<br />
+
 ## Overview
 
-Finance Portfolio Tracker (FPT) is a simple web application created in conjunction with Alpha Vantage's amazing free APIs. At the time of writing, FPT can track five stocks [Refere image for more description]. You can track the profit/loss of your selected stock compared against the date on which you bought the stock.
+Finance Portfolio Tracker (FPT) is a simple web application created in conjunction with Alpha Vantage's amazing free APIs. At the time of writing, FPT can track five stocks [Refer image below for more description]. You can track the profit/loss of your selected stock compared against the date on which you bought the stock.
 
+<br />
 
 ![Home Page](images/FP1.png)
 
