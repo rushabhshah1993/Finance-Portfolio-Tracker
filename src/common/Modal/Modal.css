@@ -1,0 +1,14 @@
+.Close {
+    position: absolute;
+    right: 5%;
+    background-color: #fff;
+    color: #f00;
+    border-radius: 50%;
+    z-index: 100;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 24px;
+    top: 5%;
+    cursor: pointer;
+}

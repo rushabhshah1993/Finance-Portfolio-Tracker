@@ -1,0 +1,15 @@
+.AddStockButton {
+    width: 50%;
+    margin-bottom: 15px;
+}
+
+.StockButton {
+    margin-right: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: transparent;
+    border: 1px solid #ddd;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    cursor: pointer;
+    border-radius: 5px;
+}

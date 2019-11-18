@@ -1,0 +1,13 @@
+.Navbar {
+    height: 50px;
+    background-color: #1d7aca;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.NavbarTitle {
+    font-weight: bolder;
+    font-size: larger;
+}
